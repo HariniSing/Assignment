@@ -53,3 +53,8 @@ Output
     name: "Person 1"
   }
 ]
+
+Steps to Implement:
+
+1.Open the terminal and cd to the location where the folder is.
+2.Enter the command - python3 solution2.py
